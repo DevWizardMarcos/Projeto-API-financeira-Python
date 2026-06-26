@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner-financeiro.png" alt="Banner do Projeto API Financeira" />
+  <img src="BannerGit/BannerPrincipal.png" alt="Banner do Projeto API Financeira" />
 </p>
 
 Dashboard financeiro em **Python + Streamlit** para consulta de cotações em tempo real, conversão de moedas e visualização de dados de referência via **AwesomeAPI**.
